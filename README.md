@@ -1,4 +1,4 @@
-### Hola Mundo 👋
+## Hola Mundo 👋
 
 Mi nombre es Camila Mercado. Vivo en Buenos Aires, Argentina.
 
@@ -7,7 +7,7 @@ Me apasionan 😍 los proyectos donde tengo que crear y diseñar algo desde cero
 
 En busqueda 🔍 de nuevos proyectos freelance para hacer uso mis habilidades y conocimientos 🙌
 
-### >_ Encontrame en:
+## Encontrame en:
 https://www.linkedin.com/in/mercado-camila/
 
 <!--
