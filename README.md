@@ -1,6 +1,6 @@
 ### Hola Mundo 👋
 
-Soy Camila Mercado, soy de Buenos Aires, Argentina.
+Mi nombre es Camila Mercado. Vivo en Buenos Aires, Argentina.
 
 Soy desarrolladora web 👩‍💻 Manejo HTML, CSS, SASS, Bootstrap, JavaScript Vanilla y actualmente estoy estudiando React Js.
 Me apasionan 😍 los proyectos donde tengo que crear y diseñar algo desde cero para lograr un resultado visual asombroso ✨ .
